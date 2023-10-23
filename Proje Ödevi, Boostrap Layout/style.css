@@ -1,0 +1,93 @@
+body {
+    color: #FFF;
+    font-family: Lato;
+}
+.st-navbar {
+    height: 105px;
+    background-color: rgb(44,62,80);
+    padding-top: 2.5rem;            
+}
+a{
+    font: 16px;
+    text-decoration: none;
+    color: #FFF;
+}
+.center {
+    background-color: rgb(26,188,156);
+    height: 715px;
+    padding-top: 12rem;
+}
+.center h1{
+    font-size: 64px;
+}
+.center h5{
+    font-size: 24px;
+    padding-top: 1rem;
+}
+#avatar {
+    width: 15rem;
+    padding-bottom: 2.5rem;
+    max-height: 100%;
+    border-radius: 10px;
+}
+.about {
+    background-color: rgb(26,188,156);
+    padding-top: 5rem;
+    height: 530px;
+    font-size: 20px;
+}
+.about a{
+    border: 2px solid #FFF;
+    border-radius: 8px;
+    padding: 1rem 2rem;
+}
+.about a:hover {
+    color: #000;
+    background-color: #FFF;
+}
+.about h2{
+    padding-bottom: 3rem;
+    font-size: 48px;
+}
+
+.portfolio{
+    height: 900px;
+}
+
+.portfolio h1{
+    padding-bottom: 1.5rem;
+    padding-top: 5.5rem;
+    color: #2C3E50;
+    font-size: 48px;
+} 
+#port-img {
+    width: 100% ;
+    height:auto ;
+    border-radius: 8px;
+}       
+.footer{
+    
+    padding: 4.5rem;
+    background-color: rgb(44,62,80);
+    height: 250px;
+    font-size: 20px;
+}
+.footer p {
+    padding: 1rem;
+}
+.footer h3{
+    font-size: 24px;
+}
+.footer a{
+    color: rgb(26,188,156);
+    text-decoration: underline;
+}
+.footer a:hover{
+    color: rgb(106, 106, 106);
+}
+.copy{
+    color: #FFF;
+    background-color: #1A252F;
+    padding: 1.5rem;
+    font-size: 14px;
+}
