@@ -1,0 +1,61 @@
+.bg-dark{
+    background-color: #212529;
+    color:#FFF
+}
+.bg-dark a {
+    color: #FFF;
+    font-size: 20px;
+}
+.lighter-color {
+    color: #FFFFFF80;
+    font-size: 20px;
+}
+.bg-dark button {
+    color: #FFF;
+    font-size: 20px;
+}
+.bg-light{
+    background-color: #F8F9FA;
+    color: #212529;
+}
+.change {
+    color: #0D6EFD;
+    font-weight: bold;
+}
+.image-border{
+    border-radius: 100%;
+}
+.new-color{
+    color: #6c757d;
+}
+
+.cards {
+    border-style: none !important;
+    box-shadow: 5px 5px 10px #88888857;
+}
+
+.card-footer {
+    border-style: none !important;
+    background-color: #FFF!important;
+}
+.bl-form {
+    background-color: #2E82FD;
+    color: #FFF;
+}
+.bl-form button{
+    color: #FFF;
+    border-color: #FFF;
+}
+
+
+.text-color{
+    color: #FFFFFF80;
+    font-size: 16px;
+}
+.footer{
+    background-color: #212529;
+    color: #FFF;
+}
+.footer a{
+    color: #FFF;
+}
