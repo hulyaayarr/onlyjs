@@ -1,6 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
 .bg-dark{
     background-color: #212529;
-    color:#FFF
+    color:#FFF;
 }
 .bg-dark a {
     color: #FFF;
@@ -14,13 +18,20 @@
     color: #FFF;
     font-size: 20px;
 }
+.navbar-toggler{
+    color: red !important;
+    background-color: white !important;
+}
 .bg-light{
     background-color: #F8F9FA;
     color: #212529;
 }
+.diff{
+    font-size: 22px;
+
+}
 .change {
     color: #0D6EFD;
-    font-weight: bold;
 }
 .image-border{
     border-radius: 100%;
